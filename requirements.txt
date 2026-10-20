@@ -1,0 +1,4 @@
+worker: python bot.py
+API pyTelegramBot
+yt-dlp
+urllib3
